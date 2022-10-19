@@ -14065,7 +14065,7 @@ let str = `2019-01-01,Death by Chocolate,180,5,900
           months[Number(key) - 1],
           "is :",
           product_name,
-          "and total is",
+          "and total sale is",
           max
         );
       }
