@@ -13941,7 +13941,7 @@ let str = `2019-01-01,Death by Chocolate,180,5,900
 2019-03-31,Butterscotch Single Scoop,60,2,120`;
 
 
-    // changing the format of data
+    // changing the format of data 
     
     str = str.split("\n");
     let arr = [];
