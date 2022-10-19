@@ -1,4 +1,4 @@
-
+// code is after the data
     
 let str = `2019-01-01,Death by Chocolate,180,5,900
 2019-01-01,Cake Fudge,150,1,150
